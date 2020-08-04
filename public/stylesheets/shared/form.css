@@ -54,7 +54,7 @@
     resize: none;
 }
 
-.form-item select {
+.form-item select option {
     background-color: black;
 }
 
